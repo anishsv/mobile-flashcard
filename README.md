@@ -17,3 +17,5 @@ Mobile flashcards is a smartphone application that allows the user to create fla
 - this will startup the [Expo](https://expo.io/) server
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Tested on Android 4.4.2
